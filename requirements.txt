@@ -1,0 +1,12 @@
+numpy
+matplotlib
+opencv-python
+h5py
+pillow
+tqdm
+qiskit
+qiskit-aer
+scipy
+seaborn
+scikit-image
+pylatexenc
