@@ -70,13 +70,12 @@ Improved scalability compared to FRQI, NEQR, MCQI, and related QIR methods
 
 Citation:
 If you use this repository for academic research, please cite:
-
 HD-QSAFE: Hierarchical and Dynamic Quantum-Safe Adaptive Feature Encoding for Quantum Image Representation, 2026.
 
 
-Author
+Author:
 Shweta Singh
-Researcher in Quantum Image Processing and Machine Learning
+(Researcher in Quantum Image Processing and Machine Learning)
 
 
 Future Work:
